@@ -44,7 +44,11 @@ R = { +1 , for correct amount of fluoride
 
 
 ## PYTHON REPRESENTATION:
+
 ```
+Developed By:
+Name : VINOD KUMAR S
+Reg No : 212222240116
 P = {
     0 : {
         0 : [(1.0, 1, 1.0, True)],
